@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "hyref-d51d1": {
+      "hosting": {
+        "hyref": [
+          "hyref-d51d1"
+        ]
+      }
+    }
+  }
+}

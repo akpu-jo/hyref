@@ -1,0 +1,33 @@
+
+.example-card {
+    /* max-width: 400px; */
+    color: #fff;
+    background-color: #005291;
+    margin-bottom: 15px;
+  }
+
+.bold-fnt{
+    font-weight: 500;
+}
+
+mat-card-title{
+ margin-bottom: 20px !important;
+}
+mat-card-subtitle{
+      color: #fff;
+  }
+
+  .mrg-tp-15{
+    margin-top: 15px;
+  }
+
+  .clinic-item{
+    padding-right: 50px;
+    display: table-cell;
+  }
+.clinic-unit{
+  display:table-cell
+}
+  p{
+    display: table
+  }
